@@ -1,4 +1,9 @@
 # 13. Roman to Integer
+'''
+Input: s = "III"
+Output: 3
+Explanation: III = 3.
+'''
 def solution(string):
     roman = {
         "I": 1,
